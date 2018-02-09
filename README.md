@@ -1,4 +1,4 @@
-# Finding Longest Path (Binary Tree applied)
+# Finding Longest Path (Binary Tree and DFS applied)
 
 Rules:
 Players cannot put a coin beside the same type.
