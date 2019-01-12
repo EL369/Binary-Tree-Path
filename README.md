@@ -1,4 +1,5 @@
-# Finding Longest Path (Binary Tree and DFS applied)
+# Finding Longest Path (Based on the game Connect 4)
+Keywords: Binary Tree, DFS, music, animation
 
 Rules:
 Players cannot put a coin beside the same type.
