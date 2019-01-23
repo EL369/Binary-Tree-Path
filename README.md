@@ -11,7 +11,7 @@ Keywords: Binary Tree, Depth First Search, music, animation
 
 *Game Ends (leaderboard automatically updated)
 
-![btp 3](https://user-images.githubusercontent.com/35883134/51578054-2402e380-1e8a-11e9-9ca2-49eb328512fd.gif)
+![btp 3](https://user-images.githubusercontent.com/35883134/51578159-970c5a00-1e8a-11e9-915a-562f13a62603.gif)
 
 
 Rules:
