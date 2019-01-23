@@ -1,5 +1,18 @@
-# Finding Longest Path (Based on the game Connect 4)
+# Finding Longest Path 
 Keywords: Binary Tree, Depth First Search, music, animation
+
+*Game Starts
+
+![btp 1](https://user-images.githubusercontent.com/35883134/51577705-c91cbc80-1e88-11e9-855b-7a65d10b7c66.gif)
+
+*Gameplay (Generates the longest path when one reaches the top)
+
+![btp 2](https://user-images.githubusercontent.com/35883134/51577871-64159680-1e89-11e9-8805-e605561046cc.gif)
+
+*Game Ends (leaderboard automatically updated)
+
+![btp 3](https://user-images.githubusercontent.com/35883134/51578054-2402e380-1e8a-11e9-9ca2-49eb328512fd.gif)
+
 
 Rules:
 Players cannot put a coin beside the same type.
